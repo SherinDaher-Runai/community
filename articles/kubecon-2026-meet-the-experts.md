@@ -12,6 +12,7 @@ Most sessions are 20 minutes. Expect an informal scrum with NVIDIA developers an
 | 11:25–11:45 AM | OpenShell | Kris Hicks, Jim Meyer, Drew Newberry |
 | 12:15–12:35 PM | Slinky – slurm-operator | Marlow Warnicke, Alan Mutschelknaus, Tim Wickberg |
 | 2:45–3:05 PM | Run:ai | Ekin Karabulut, Sam Heywood, Omer Benedict |
+| 3:15-3:35 PM | Workload Map: How to manage many workload types on K8s without per-type code | Ron Lev |
 | 4:45–5:05 PM | Multi-cluster platforms | Scott Brimhall |
 | 6:00–6:45 PM | Cluster management & Configuration | Eric Chapman, Nathan Taber, Yuan Chen |
 
